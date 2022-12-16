@@ -1,0 +1,29 @@
+{
+  "name": "cool-walk",
+  "displayName": "Cool Walk",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perragnar/cool-walk"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "Cool Walk",
+    "Night Walk"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cool Walk",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Cool Walk-color-theme.json"
+      }
+    ]
+  }
+}
