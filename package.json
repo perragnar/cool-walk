@@ -2,7 +2,7 @@
   "name": "cool-walk",
   "displayName": "Cool Walk",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.74.0"
   },
@@ -13,6 +13,7 @@
   "categories": [
     "Themes"
   ],
+  "icon": "images/logo.png",
   "keywords": [
     "Cool Walk",
     "Night Walk"
